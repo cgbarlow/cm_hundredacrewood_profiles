@@ -35,7 +35,7 @@ Campaign Mode agents will automatically detect the profiles and adopt their Hund
 
 ## Origin
 
-These profiles were created during a Campaign Mode quest exploring how to teach D&D to a newcomer by casting Pooh characters as a D&D party. The quest itself lives in `.campaign/quest.md`.
+These profiles were created during a Campaign Mode quest exploring how to teach D&D to a newcomer by casting Pooh characters as a D&D party. The quest itself lives in [quest.md](.campaign/quest.md).
 
 ## Requirements
 
